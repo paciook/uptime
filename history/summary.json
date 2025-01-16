@@ -4,17 +4,19 @@
     "url": "https://airflow.mixilo.muttdata.ai/",
     "icon": "https://icons.duckduckgo.com/ip3/airflow.mixilo.muttdata.ai.ico",
     "slug": "mixilo-airflow",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 463,
-    "timeDay": 395,
-    "timeWeek": 463,
-    "timeMonth": 463,
-    "timeYear": 463,
-    "dailyMinutesDown": {}
+    "time": 385,
+    "timeDay": 273,
+    "timeWeek": 385,
+    "timeMonth": 385,
+    "timeYear": 385,
+    "dailyMinutesDown": {
+      "2025-01-16": 0
+    }
   }
 ]
