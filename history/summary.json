@@ -5,18 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/airflow.mixilo.muttdata.ai.ico",
     "slug": "mixilo-airflow",
     "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
-    "time": 421,
-    "timeDay": 371,
-    "timeWeek": 421,
-    "timeMonth": 421,
-    "timeYear": 421,
-    "dailyMinutesDown": {
-      "2025-01-16": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 390,
+    "timeDay": 317,
+    "timeWeek": 390,
+    "timeMonth": 390,
+    "timeYear": 390,
+    "dailyMinutesDown": {}
   }
 ]
