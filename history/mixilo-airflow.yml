@@ -1,7 +1,7 @@
 url: https://airflow.mixilo.muttdata.ai/
-status: up
-code: 200
-responseTime: 311
-lastUpdated: 2025-02-11T23:18:28.022Z
+status: down
+code: 503
+responseTime: 230
+lastUpdated: 2025-02-12T07:21:28.126Z
 startTime: 2025-01-14T19:09:26.319Z
 generator: Upptime <https://github.com/upptime/upptime>
